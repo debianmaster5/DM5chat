@@ -2,13 +2,13 @@
 Easy NetCat chat
 
 Host:
-sudo sh Host.sh 
+"sudo sh Host.sh"
 or
-sudo chmod 777 Host.sh
-./Host.sh
+"sudo chmod 777 Host.sh &
+./Host.sh"
 
 User:
-sh User.sh
+"sh User.sh"
 or
-sudo chmod 777 User.sh
-./User.sh
+"sudo chmod 777 User.sh &
+./User.sh"
